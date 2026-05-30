@@ -1,16 +1,69 @@
-## Hi there 👋
+Hi, I'm Mohammad Azhar 👋
 
-<!--
-**Azhar0612/Azhar0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student (B.Tech 2026)
+📊 Aspiring Data Analyst
+🚀 Passionate about building real-world projects and solving problems using data
 
-Here are some ideas to get you started:
+_____________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me
+
+- 💡 Interested in Data Analytics & Machine Learning
+- 📊 Love working with data and extracting insights
+- 🚀 Continuously building and improving projects
+
+______________________________________________________________________________________________
+
+🛠️ Tech Stack
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Data Analysis
+- 🤖 Machine Learning
+
+_______________________________________________________________________________________________
+
+📂 Projects
+
+📊 Sales Trend Analysis
+
+- Analyzed sales data to identify trends and patterns
+- Created visualizations for better business insights
+
+🚗 Car Price Predictor
+
+- Built a Machine Learning model to predict car prices
+- Used regression techniques for accurate prediction
+
+🧠 Diabetes Prediction
+
+- Developed a model to predict diabetes based on medical data
+- Focused on data preprocessing and model accuracy
+
+🎭 Face Detection System
+
+- Implemented face detection using computer vision
+- Used image processing techniques
+
+❤️ Valentine’s Special Project
+
+- Creative project showcasing frontend/design skills
+
+___________________________________________________________________________________________________
+
+📈 Currently Working On
+
+- 💼 Data Analyst Internship
+- 📚 Improving problem-solving & ML skills
+- 🚀 Building more real-world projects
+
+____________________________________________________________________________________________________
+
+🌐 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/azhar-mohammad
+
+______________________________________________________________________________________________________
+
+⭐ “Turning data into insights, and ideas into reality.”
